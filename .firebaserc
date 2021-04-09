@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-project3-1143": {
+      "hosting": {
+        "RetoVersion2": [
+          "my-project3-1143"
+        ]
+      }
+    }
+  }
+}
